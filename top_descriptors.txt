@@ -1,0 +1,12 @@
+TOP 10 DESCRIPTORS USED 
+ 
+1) Descriptor: wrong ----- Frequency: 159 
+2) Descriptor: secret ----- Frequency: 77 
+3) Descriptor: American ----- Frequency: 75 
+4) Descriptor: fast ----- Frequency: 59 
+5) Descriptor: strong ----- Frequency: 58 
+6) Descriptor: sharp ----- Frequency: 55 
+7) Descriptor: last ----- Frequency: 52 
+8) Descriptor: old ----- Frequency: 49 
+9) Descriptor: dead ----- Frequency: 49 
+10) Descriptor: impetuous ----- Frequency: 40 
